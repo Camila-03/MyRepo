@@ -1,0 +1,42 @@
+C:\CPSC1012\MyAttempt\bin\Debug\net8.0\MyAttempt.exe
+C:\CPSC1012\MyAttempt\bin\Debug\net8.0\MyAttempt.deps.json
+C:\CPSC1012\MyAttempt\bin\Debug\net8.0\MyAttempt.runtimeconfig.json
+C:\CPSC1012\MyAttempt\bin\Debug\net8.0\MyAttempt.dll
+C:\CPSC1012\MyAttempt\bin\Debug\net8.0\MyAttempt.pdb
+C:\CPSC1012\MyAttempt\obj\Debug\net8.0\MyAttempt.GeneratedMSBuildEditorConfig.editorconfig
+C:\CPSC1012\MyAttempt\obj\Debug\net8.0\MyAttempt.AssemblyInfoInputs.cache
+C:\CPSC1012\MyAttempt\obj\Debug\net8.0\MyAttempt.AssemblyInfo.cs
+C:\CPSC1012\MyAttempt\obj\Debug\net8.0\MyAttempt.csproj.CoreCompileInputs.cache
+C:\CPSC1012\MyAttempt\obj\Debug\net8.0\MyAttempt.dll
+C:\CPSC1012\MyAttempt\obj\Debug\net8.0\refint\MyAttempt.dll
+C:\CPSC1012\MyAttempt\obj\Debug\net8.0\MyAttempt.pdb
+C:\CPSC1012\MyAttempt\obj\Debug\net8.0\MyAttempt.genruntimeconfig.cache
+C:\CPSC1012\MyAttempt\obj\Debug\net8.0\ref\MyAttempt.dll
+C:\Users\Ian\Documents\NAIT\Nimbus Tutoring\CPSC1012\Camila\MyAttempt\MyAttempt\bin\Debug\net8.0\MyAttempt.exe
+C:\Users\Ian\Documents\NAIT\Nimbus Tutoring\CPSC1012\Camila\MyAttempt\MyAttempt\bin\Debug\net8.0\MyAttempt.deps.json
+C:\Users\Ian\Documents\NAIT\Nimbus Tutoring\CPSC1012\Camila\MyAttempt\MyAttempt\bin\Debug\net8.0\MyAttempt.runtimeconfig.json
+C:\Users\Ian\Documents\NAIT\Nimbus Tutoring\CPSC1012\Camila\MyAttempt\MyAttempt\bin\Debug\net8.0\MyAttempt.dll
+C:\Users\Ian\Documents\NAIT\Nimbus Tutoring\CPSC1012\Camila\MyAttempt\MyAttempt\bin\Debug\net8.0\MyAttempt.pdb
+C:\Users\Ian\Documents\NAIT\Nimbus Tutoring\CPSC1012\Camila\MyAttempt\MyAttempt\obj\Debug\net8.0\MyAttempt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian\Documents\NAIT\Nimbus Tutoring\CPSC1012\Camila\MyAttempt\MyAttempt\obj\Debug\net8.0\MyAttempt.AssemblyInfoInputs.cache
+C:\Users\Ian\Documents\NAIT\Nimbus Tutoring\CPSC1012\Camila\MyAttempt\MyAttempt\obj\Debug\net8.0\MyAttempt.AssemblyInfo.cs
+C:\Users\Ian\Documents\NAIT\Nimbus Tutoring\CPSC1012\Camila\MyAttempt\MyAttempt\obj\Debug\net8.0\MyAttempt.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Documents\NAIT\Nimbus Tutoring\CPSC1012\Camila\MyAttempt\MyAttempt\obj\Debug\net8.0\MyAttempt.dll
+C:\Users\Ian\Documents\NAIT\Nimbus Tutoring\CPSC1012\Camila\MyAttempt\MyAttempt\obj\Debug\net8.0\refint\MyAttempt.dll
+C:\Users\Ian\Documents\NAIT\Nimbus Tutoring\CPSC1012\Camila\MyAttempt\MyAttempt\obj\Debug\net8.0\MyAttempt.pdb
+C:\Users\Ian\Documents\NAIT\Nimbus Tutoring\CPSC1012\Camila\MyAttempt\MyAttempt\obj\Debug\net8.0\MyAttempt.genruntimeconfig.cache
+C:\Users\Ian\Documents\NAIT\Nimbus Tutoring\CPSC1012\Camila\MyAttempt\MyAttempt\obj\Debug\net8.0\ref\MyAttempt.dll
+C:\Users\camil\Downloads\MyAttempt\MyAttempt\MyAttempt\bin\Debug\net8.0\MyAttempt.exe
+C:\Users\camil\Downloads\MyAttempt\MyAttempt\MyAttempt\bin\Debug\net8.0\MyAttempt.deps.json
+C:\Users\camil\Downloads\MyAttempt\MyAttempt\MyAttempt\bin\Debug\net8.0\MyAttempt.runtimeconfig.json
+C:\Users\camil\Downloads\MyAttempt\MyAttempt\MyAttempt\bin\Debug\net8.0\MyAttempt.dll
+C:\Users\camil\Downloads\MyAttempt\MyAttempt\MyAttempt\bin\Debug\net8.0\MyAttempt.pdb
+C:\Users\camil\Downloads\MyAttempt\MyAttempt\MyAttempt\obj\Debug\net8.0\MyAttempt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\Downloads\MyAttempt\MyAttempt\MyAttempt\obj\Debug\net8.0\MyAttempt.AssemblyInfoInputs.cache
+C:\Users\camil\Downloads\MyAttempt\MyAttempt\MyAttempt\obj\Debug\net8.0\MyAttempt.AssemblyInfo.cs
+C:\Users\camil\Downloads\MyAttempt\MyAttempt\MyAttempt\obj\Debug\net8.0\MyAttempt.csproj.CoreCompileInputs.cache
+C:\Users\camil\Downloads\MyAttempt\MyAttempt\MyAttempt\obj\Debug\net8.0\MyAttempt.dll
+C:\Users\camil\Downloads\MyAttempt\MyAttempt\MyAttempt\obj\Debug\net8.0\refint\MyAttempt.dll
+C:\Users\camil\Downloads\MyAttempt\MyAttempt\MyAttempt\obj\Debug\net8.0\MyAttempt.pdb
+C:\Users\camil\Downloads\MyAttempt\MyAttempt\MyAttempt\obj\Debug\net8.0\MyAttempt.genruntimeconfig.cache
+C:\Users\camil\Downloads\MyAttempt\MyAttempt\MyAttempt\obj\Debug\net8.0\ref\MyAttempt.dll
